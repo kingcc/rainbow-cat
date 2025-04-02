@@ -1,6 +1,7 @@
 # Rainbow Cat Web Component
 
-A fun web component that adds an animated cat to your webpage. The cat follows your mouse/touch movement, changes colors, and jumps when you move your cursor to the top of the screen.
+A fun web component that adds an animated rainbow cat to your webpage. 🌈😺 
+The cat follows your mouse/touch movement, changes colors, and jumps when you move your cursor to the top of the screen.
 
 ## Features
 
