@@ -4,9 +4,7 @@
   "description": "A fun web component that adds an animated cat to your webpage",
   "main": "rainbow-cat.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "serve .",
-    "lint": "eslint rainbow-cat.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "web-component",
@@ -25,10 +23,6 @@
     "url": "https://github.com/kingcc/rainbow-cat/issues"
   },
   "homepage": "https://github.com/kingcc/rainbow-cat#readme",
-  "devDependencies": {
-    "eslint": "^8.42.0",
-    "serve": "^14.2.0"
-  },
   "files": [
     "cat.js",
     "README.md",
