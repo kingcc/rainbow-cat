@@ -1,6 +1,6 @@
 {
   "name": "rainbow-cat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fun web component that adds an animated cat to your webpage",
   "main": "rainbow-cat.js",
   "scripts": {
