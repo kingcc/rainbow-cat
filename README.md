@@ -16,7 +16,7 @@ A fun web component that adds an animated cat to your webpage. The cat follows y
 Simply include the `rainbow-cat.js` file in your project via CDN:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/rainbow-cat@latest/rainbow-cat.js"/>
+<script src="https://cdn.jsdelivr.net/npm/rainbow-cat@latest/rainbow-cat.js"></script>
 ```
 
 ### Usage

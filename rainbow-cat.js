@@ -52,14 +52,15 @@ class CatElement extends HTMLElement {
         --jump-height: 50vh;  /* Initial height */
         --jump-duration: 1s;   /* Initial duration */
   
-
-
-        
         display: block;
         width: 100%;
-        height: 100%;
+        height: 100vh;  /* Changed from 100% to 0 */
         pointer-events: none;
         position: fixed;
+        bottom: 0;  /* Add this to ensure it's at the bottom of viewport */
+        left: 0;    /* Add this for proper positioning */
+        z-index: 9999;  /* Ensure it appears above other elements */
+        overflow: visible;  /* Allow the cat to be visible outside the host bounds */
       }
 
       .outer_wrapper {
